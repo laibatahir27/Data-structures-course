@@ -1,0 +1,13 @@
+Algorithm,Array size,Array Type,Average
+Wrong,5,A,1333
+Corrct,5,A,1671
+Insertion,5,A,1759
+Bubble,5,A,1760
+Wrong,5,B,1957
+Correct,5,B,1804
+Insertion,5,B,1268
+Bubble,5,B,1946
+Wrong,5,C,2040
+Correct,5,C,3328
+Insertion,5,C,1801
+Bubble,5,C,2374
