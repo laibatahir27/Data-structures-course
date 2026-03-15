@@ -1,4 +1,4 @@
-# Data Structures Course Assignments
+# DS Assignments
 
 This repository contains my Data Structures course assignments, implemented in C++.
 
